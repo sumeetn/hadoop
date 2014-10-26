@@ -7,5 +7,6 @@
 	<packaging>pom</packaging>
 	<modules>
 		<module>secondary-sort</module>
+		<module>unique-id-separation-spocosy</module>
 	</modules>
 </project>
